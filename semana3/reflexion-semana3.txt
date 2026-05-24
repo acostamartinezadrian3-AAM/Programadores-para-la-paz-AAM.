@@ -1,0 +1,10 @@
+El uso de herramientas como Git para mantener un registro de cambios es
+indispensable en el desarrollo de software porque garantiza la trazabilidad total
+del proyecto. Esto permite saber con precisión qué modificaciones se hicieron,
+cuándo se realizaron y quién fue el responsable, facilitando la detección de
+errores de manera rápida. Además, funciona como una "máquina del tiempo"
+segura que permite revertir el código a versiones previas y estables si algo
+falla. Por último, optimiza el trabajo colaborativo al evitar que los miembros del
+equipo sobreescriban el trabajo mutuo, asegurando que la evolución de cualquier
+sistema tecnológico ocurra de forma organizada, segura y eficiente en el tiempo.
+
